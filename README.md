@@ -1,2 +1,3 @@
 # btn-Component
-my button component(do exercises)
+Hey guys,I'm a front-end development engineer.
+I want to practice writing components
